@@ -3,7 +3,7 @@ London Armageddon
 
 Initially as a group, we decided that each member would be responsible for a zone. I was in charge of the zone of London.
 
-I collaborated with Michael Dale and cloned his repo, and worked on London. I blocked out the other zones so I can troubleshoot London first.
+I collaborated with Michael Dale and cloned his repo. I continued to work on London and blocked out the other zones so I can troubleshoot London first.
 
 
 I ran into this issue with the code. 
